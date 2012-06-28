@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="mapprop" value="kjgpaeoirn3"/>
+ </properties>
+ <tileset firstgid="1" name="tileset1" tilewidth="32" tileheight="32">
+  <image source="tileset1.png" trans="ffffff" width="128" height="96"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="10" height="10">
+  <properties>
+   <property name="irgendwas" value="6"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+NgYGDgIAKzUBkzUxmzUxlzDRAGACmu5aCQAQAA
+  </data>
+ </layer>
+ <layer name="Kachelebene 2" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGhgZGBgYCRMHwBiByJoqprHBlQPxAxE0AfYIOoJ0VQ1j4HKAAApZGJBkAEAAA==
+  </data>
+ </layer>
+</map>
