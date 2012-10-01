@@ -37,7 +37,7 @@ namespace TiledTestGame
             spriteBatch = new SpriteBatch(GraphicsDevice);
             device = graphics.GraphicsDevice;
             orthoMap = Content.Load<TiledMap>("map");
-            isoMap = Content.Load<TiledMap>("isomap");
+            isoMap = Content.Load<TiledMap>("isomap2");
             TilesetManager.LoadTextures(Content);
             Console.WriteLine("+++++++++++++++++++++++++++++++");
             Console.WriteLine(orthoMap);
@@ -78,6 +78,7 @@ namespace TiledTestGame
         {
             GraphicsDevice.Clear(Color.Blue);
             spriteBatch.Begin();
+            spriteBatch.Draw(orthoMap, orthoMapPosition);
             spriteBatch.Draw(isoMap, isoMapPosition);
             spriteBatch.End();
             base.Draw(gameTime);

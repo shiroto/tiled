@@ -5,7 +5,6 @@ using Microsoft.Xna.Framework.Graphics;
 
 using Tiled.Exceptions;
 
-
 namespace Tiled.TileLayer
 {
     internal struct LayerData
@@ -69,20 +68,20 @@ namespace Tiled.TileLayer
             }
         }
 
-        private Stream GetStream(byte[] gzip, Layer layer)
+        private Stream GetStream(byte[] data, Layer layer)
         {
             Stream stream;
             switch (compression)
             {
                 case "gzip":
-                    stream = new GZipStream(new MemoryStream(gzip), CompressionMode.Decompress);
+                    stream = new GZipStream(new MemoryStream(data), CompressionMode.Decompress);
                     break;
                 case "uncompressed":
-                    stream = new MemoryStream(gzip);
+                    stream = new MemoryStream(data);
                     break;
-                //case "zlib":
-                //    stream = new DeflateStream(new MemoryStream(gzip), CompressionMode.Decompress);
-                //    break;
+                case "zlib":
+                    stream = new Ionic.Zlib.ZlibStream(new MemoryStream(data), Ionic.Zlib.CompressionMode.Decompress);                       
+                    break;
                 default:
                     throw new UnsupportedCompressionException("Layer \"" + layer + "\" has unsupported compression.");
             }

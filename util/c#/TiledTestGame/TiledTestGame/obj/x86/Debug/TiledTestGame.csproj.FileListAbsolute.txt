@@ -1,0 +1,38 @@
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tileset1.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tileset2.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\map.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isomap.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\TiledTestGame.exe
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\TiledTestGame.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Tiled.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Tiled.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.exe
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.csprojResolveAssemblyReference.cache
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Ionic.Zlib.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isometric_grass_and_water.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\sewer_tileset.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tmw_desert_spacing.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\perspective walls.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isomap2.xnb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\sewers.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tileset1.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tileset2.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isometric_grass_and_water.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\perspective walls.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\sewer_tileset.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\tmw_desert_spacing.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\map.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isomap.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\isomap2.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Content\sewers.xnb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\TiledTestGame.exe
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\TiledTestGame.pdb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Tiled.dll
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Ionic.Zlib.dll
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\bin\x86\Debug\Tiled.pdb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.csprojResolveAssemblyReference.cache
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.exe
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGame\obj\x86\Debug\TiledTestGame.pdb

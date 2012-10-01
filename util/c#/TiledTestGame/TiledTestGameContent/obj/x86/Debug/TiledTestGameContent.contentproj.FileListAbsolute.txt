@@ -1,0 +1,2 @@
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TiledTestGame\TiledTestGameContent\obj\x86\Debug\TiledTestGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\TiledTestGame\TiledTestGameContent\obj\x86\Debug\TiledTestGameContent.contentprojResolveAssemblyReference.cache

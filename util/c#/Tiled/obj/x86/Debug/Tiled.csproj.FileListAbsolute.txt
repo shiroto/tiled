@@ -1,0 +1,13 @@
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\bin\x86\Debug\Tiled.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\bin\x86\Debug\Tiled.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\obj\x86\Debug\Tiled.csprojResolveAssemblyReference.cache
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\obj\x86\Debug\Tiled.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\obj\x86\Debug\Tiled.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\Tiled\bin\x86\Debug\Ionic.Zlib.dll
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\bin\x86\Debug\Tiled.dll
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\bin\x86\Debug\Tiled.pdb
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\obj\x86\Debug\Tiled.csprojResolveAssemblyReference.cache
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\obj\x86\Debug\Tiled.dll
+C:\Users\shiroto\Documents\GitHub\tiled\util\c#\Tiled\obj\x86\Debug\Tiled.pdb

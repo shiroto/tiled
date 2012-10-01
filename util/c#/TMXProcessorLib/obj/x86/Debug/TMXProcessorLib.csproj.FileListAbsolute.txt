@@ -1,0 +1,8 @@
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\bin\x86\Debug\TMXProcessorLib.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\bin\x86\Debug\TMXProcessorLib.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\bin\x86\Debug\Tiled.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\bin\x86\Debug\Tiled.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\obj\x86\Debug\TMXProcessorLib.csprojResolveAssemblyReference.cache
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\obj\x86\Debug\TMXProcessorLib.dll
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\obj\x86\Debug\TMXProcessorLib.pdb
+C:\Users\shiroto\visual studio 2010\Projects\Tiled\TMXProcessorLib\bin\x86\Debug\Ionic.Zlib.dll
